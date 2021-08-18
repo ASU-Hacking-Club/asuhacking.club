@@ -1,8 +1,8 @@
 name: "ASU Hacking Club"
 description: "ASU Hacking Clubs new home"
-url: "https://asuhacking.club"
+url: "http://asuhacking.club"
 
-baseurl: "https://asuhacking.club"
+baseurl: "http://asuhacking.club"
 
 cats:
  - news
