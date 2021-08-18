@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ site.baseurl }}/style.css">
+    <script>
+      function retrace(){
+        history.back();
+      }
+
+      function enableRetrace(){
+        if (history.length > 0){
+          r = document.getElementById("retrace");
+          r.className = "";
+        }
+      }
+
+      function init(){
+        enableRetrace()
+      }
+
+      window.onload = init;
+    </script>
+  </head>
+
+  <body>
+    <div id="wrapper">
+      <header>
+        <h1>{{ page.title }}</h1>
+        <nav>
+          <ul>
+            <li><a href="{{ site.baseurl }}/contents.html" class="enabled" title="Nodes by category" rel="contents" accesskey="c"><span>C</span>ontents</a></li>
+            <li><a href="{{ site.baseurl }}" class="enabled" title="Home" rel="home" accesskey="i"><span>I</span>ndex</a></li>
+            <li><a href="{{ site.baseurl }}/help.html" class="enabled" title="Help" rel="help" accesskey="h"><span>H</span>elp</a></li>
+            <li><a href="{{ site.baseurl }}" id="retrace" class="disabled" title="Back" onclick="retrace()" accesskey="r"><span>R</span>etrace</a></li>
+          {% if page.previous %}
+            <li><a href="{{ site.baseurl}}{{ page.previous.url }}" class="enabled" title="Older: {{ page.previous.title }}" rel="prev" accesskey="p">Browse <span>&laquo;</span></a></li>
+          {% else %}
+            <li><a class="disabled" accesskey="p">Browse <span>&laquo;</span></a></li>
+          {% endif %}
+          {% if page.next %}
+            <li><a href="{{ site.baseurl}}{{ page.next.url }}" class="enabled" title="Newer: {{ page.next.title }}" rel="next" accesskey="n">Browse <span>&raquo;</span></a></li>
+          {% else %}
+            <li><a class="disabled" accesskey="n">Browse <span>&raquo;</span></a></li>
+          {% endif %}
+          </ul>
+        </nav>
+      </header>
+
+      {{content}}
+  
+    </div>
+  </body>
+</html>

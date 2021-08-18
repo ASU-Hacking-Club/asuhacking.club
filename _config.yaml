@@ -1,0 +1,26 @@
+name: "ASU Hacking Club"
+description: "ASU Hacking Clubs new home"
+url: "https://asuhacking.club"
+
+baseurl: "https://asuhacking.club"
+
+cats:
+ - news
+ - technology
+
+relative_permalinks: false
+permalink: ":year:month:day-:title.html"
+
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+  entity_output: "symbolic"
+  line_width: 68
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"

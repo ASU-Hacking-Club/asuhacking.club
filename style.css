@@ -1,0 +1,307 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #aaa;
+
+  font-family: "Arial", "Helvetica", sans-serif;
+}
+
+div#wrapper {
+  border-top: 2px solid #fff;
+  border-right: 2px solid #000;
+  border-bottom: 2px solid #000;
+  border-left: 2px solid #fff;
+
+  background: #79c;
+
+  max-width: 720px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+header {
+}
+
+header h1 {
+  background: #79c;
+
+  font-size: 1em;
+  line-height: 2em;
+  padding: 0 1em;
+
+  max-height: 2em;
+  overflow: hidden;
+}
+
+nav {
+  background: #aaa;
+  margin: 0 2px;
+
+  border-left: 2px solid #000;
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #000;
+  border-top: 2px solid #000;
+}
+
+nav ul {
+  border-bottom: 2px solid #fff;
+
+  list-style: none;
+  overflow: hidden;
+}
+
+nav ul li {
+  width: 16%;
+  width: 118px;
+  list-style: none;
+  float: left;
+
+  text-align: center;
+}
+
+nav ul li a {
+  display: block;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #000;
+  border-bottom: 2px solid #000;
+  border-left: 2px solid #fff;
+  text-decoration: none;
+  color: black;
+  padding: 4px 16px;
+
+  margin: 2px;
+}
+
+nav ul li a span {
+  text-decoration: underline;
+}
+
+nav ul li a.disabled {
+  background: #444;
+}
+
+nav ul li a:active {
+  border-top: 2px solid #000;
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  border-left: 2px solid #000;
+}
+
+nav ul li a.disabled:active {
+  border-top: 2px solid #fff;
+  border-right: 2px solid #000;
+  border-bottom: 2px solid #000;
+  border-left: 2px solid #fff;
+}
+
+main {
+  background: #aaa;
+
+  margin: 0 2px;
+
+  border-left: 2px solid #000;
+  border-right: 2px solid #fff;
+}
+
+article {
+  padding: 1em 2em;
+
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+article p, footer p {
+  margin-bottom: 1.5em;
+}
+
+article hr, footer hr {
+  margin-bottom: 1.5em;
+}
+
+article h1, footer h1 {
+  font-size: 2em;
+  line-height: 1.5;
+}
+
+article h2, footer h2 {
+  font-size: 1.6em;
+  line-height: 1.5;
+}
+
+article h3, article h4, article h5, article h6,
+footer h3, footer h4, footer h5, footer h6 {
+  font-size: 1.4em;
+  line-height: 1.5;
+}
+
+article b, article strong,
+footer b, footer strong {
+}
+
+article em, article cite,
+footer em, footer cite {
+  font-weight: normal;
+  font-style: normal;
+  color: #fff;
+}
+
+article i, footer i {
+  font-weight: normal;
+  font-style: normal;
+  color: #79c;
+}
+
+article a, footer a {
+  border-top: 1px solid #fff;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-left: 1px solid #fff;
+  text-decoration: none;
+  color: black;
+  padding: 1px 5px;
+}
+
+article a:active, footer a:active {
+  border-top: 1px solid #000;
+  border-right: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  border-left: 1px solid #000;
+}
+
+article a:focus, footer a:focus {
+  background: #79c;
+}
+
+article a.hidden, footer a.hidden,
+article a.h, footer a.h {
+  text-decoration: none;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+  padding: 0;
+}
+
+article a.hidden:active, article a.hidden:focus,
+article a.h:active, article a.h:focus,
+footer a.hidden:active, footer a.hidden:focus,
+footer a.h:active, footer a.h:focus{
+  background: transparent;
+}
+
+article ul, footer ul {
+  list-style-type: square;
+  margin-bottom: 1.5em;
+}
+
+article ol, footer ol {
+  margin-bottom: 1.5em;
+}
+
+ol ol, ol ul, ul ol, ul ul {
+  margin-bottom: 0;
+}
+
+article li, footer li {
+  margin-left: 2em;
+}
+
+article blockquote, footer blockquote {
+  padding-left: 2em;
+}
+
+article dl, footer dl {
+  margin-bottom: 1.5em;
+}
+
+article dt, footer dt {
+  font-weight: bold;
+}
+
+article dd, footer dd {
+  padding-left: 2em;
+}
+
+article pre {
+  font-size: 1em;
+  line-height: 1.2;
+  font-weight: bold;
+  margin-bottom: 1.5em;
+}
+
+article ul.index {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+article ul.index li {
+  margin: 0;
+}
+
+article ul.index li a {
+  display: inline-block;
+  width: 30em;
+}
+
+article #markdown-toc {
+}
+
+article #markdown-toc, article #markdown-toc ul,
+article #markdown-toc ol {
+}
+
+article #markdown-toc li {
+}
+
+article #markdown-toc li a {
+  background: transparent;
+  border: none;
+}
+
+article #markdown-toc li li a:before {
+}
+
+article #markdown-toc li li li a:before {
+}
+
+article h2.cat {
+  padding-top: 3em;
+}
+
+footer {
+  background: #aaa;
+  margin: 0 2px 16px 2px;
+
+  border-bottom: 2px solid #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #fff;
+
+  padding: 0 2em 1em 2em;
+
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+@media screen and (min-width: 720px) {
+  header {
+    position: fixed;
+    width: 720px;
+
+    margin: -2px auto 0 auto;
+
+    border-top: 2px solid white;
+    border-right: 2px solid black;
+  }
+
+  nav {
+    border-bottom: 2px solid #000;    
+  }
+
+  main {
+    padding-top: 4.5em;
+  }
+}
