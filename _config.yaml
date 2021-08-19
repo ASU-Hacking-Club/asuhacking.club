@@ -3,6 +3,7 @@ description: "ASU Hacking Clubs new home"
 url: "http://asuhacking.club"
 
 baseurl: "http://asuhacking.club"
+favicon: files/images/asuhc_favicon.png
 
 cats:
  - news

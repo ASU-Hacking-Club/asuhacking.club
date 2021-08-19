@@ -3,6 +3,10 @@
   <head>
     <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" media="screen" href="{{ site.baseurl }}/style.css">
+    {% if site.favicon and site.favicon != "" %}
+      <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/png" />
+    {% endif %}
+
     <script>
       function retrace(){
         history.back();
