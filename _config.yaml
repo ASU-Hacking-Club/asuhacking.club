@@ -2,7 +2,7 @@ name: "ASU Hacking Club"
 description: "ASU Hacking Clubs new home"
 url: "http://asuhacking.club"
 
-baseurl: "http://asuhacking.club"
+baseurl: "/"
 favicon: files/images/asuhc_favicon.png
 
 cats:
