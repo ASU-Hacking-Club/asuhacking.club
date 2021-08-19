@@ -1,0 +1,9 @@
+_drafts
+.DS_Store
+*.swp
+*.bak
+*~
+*.py
+*.pyc
+*.rb
+*.sh
