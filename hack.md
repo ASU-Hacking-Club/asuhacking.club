@@ -3,7 +3,14 @@ layout: page
 title: Hack
 ---
 
-## General Links
+## Getting Started
+
+The hacking world is ever expansive. Many places offer varying versions of
+knowledge transference, but the HC reccomends a faithful HC veteran's starting
+handbook for binary analysis: [ike.mahaloz.re](https://ike.mahaloz.re). Start
+where your level dictates. 
+
+## Other Resource Links
 
 <details>
 <summary>General CTF</summary>
@@ -45,7 +52,7 @@ Resources for binary exploitation, a.k.a <code>pwn</code>.
 </details>
 
 <details>
-<summary>For Bob and Alice </summary>
+<summary>Cryptography</summary>
 <br>
 Resources for <code>Cryptography</code>.
 <ul>
@@ -57,7 +64,7 @@ Resources for <code>Cryptography</code>.
 </details>
 
 <details>
-<summary>Websites and Web Accessories </summary>
+<summary>Website Exploitation</summary>
 <br>
 Resources for <code>Web</code>.
 <ul>
@@ -69,7 +76,7 @@ Resources for <code>Web</code>.
 </details>
 
 <details>
-<summary>Sherlock Holmes Fans </summary>
+<summary>Forensics</summary>
 <br>
 Resources for <code>forensics</code>. 
 <ul>
@@ -81,7 +88,7 @@ Resources for <code>forensics</code>.
 </details>
 
 <details>
-<summary>Command Line Ninja </summary>
+<summary>Command Line</summary>
 <br>
 Resources for using the shell in Linux.
 <ul>
