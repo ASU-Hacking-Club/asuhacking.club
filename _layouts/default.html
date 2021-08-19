@@ -8,19 +8,26 @@
     {% endif %}
 
     <script>
-      function retrace(){
-        history.back();
-      }
-
-      function enableRetrace(){
-        if (history.length > 0){
-          r = document.getElementById("retrace");
-          r.className = "";
-        }
-      }
+      function GetURLParameter(sParam)
+      {
+          var sPageURL = window.location.search.substring(1);
+          var sURLVariables = sPageURL.split('&');
+          for (var i = 0; i < sURLVariables.length; i++) 
+          {
+              var sParameterName = sURLVariables[i].split('=');
+              if (sParameterName[0] == sParam) 
+              {
+                  return sParameterName[1];
+              }
+          }
+      }​
 
       function init(){
-        enableRetrace()
+        var giveInvite = GetURLParameter('invite');
+        if(giveInvite)
+        {
+          alert("Here is the invite");
+        }
       }
 
       window.onload = init;
