@@ -4,7 +4,7 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" media="screen" href="{{ site.baseurl }}/style.css">
     {% if site.favicon and site.favicon != "" %}
-      <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/png" />
+      <link rel="shortcut icon" href="{{ site.favicon }}" type="image/png" />
     {% endif %}
 
     <script>
@@ -33,7 +33,7 @@
         <h1>{{ page.title }}</h1>
         <nav>
           <ul>
-            <li><a href="{{ site.baseurl }}" class="enabled" title="Home" rel="home" accesskey="i"><span>H</span>ome</a></li>
+            <li><a href="/" class="enabled" title="Home" rel="home" accesskey="i"><span>H</span>ome</a></li>
             <li><a href="{{ site.baseurl }}/about.html" class="enabled" title="about" rel="about" accesskey="h"><span>A</span>bout</a></li>
             <li><a href="{{ site.baseurl }}/hack.html" class="enabled" title="hack" rel="hack" accesskey="h"><span>H</span>ack</a></li>
             <li><a href="{{ site.baseurl }}/posts.html" class="enabled" title="Posts by Category" rel="posts" accesskey="c"><span>P</span>osts</a></li>
