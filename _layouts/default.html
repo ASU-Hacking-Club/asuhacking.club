@@ -29,9 +29,9 @@
         <h1>{{ page.title }}</h1>
         <nav>
           <ul>
+            <li><a href="{{ site.baseurl }}" class="enabled" title="Home" rel="home" accesskey="i"><span>H</span>ome</a></li>
+            <li><a href="{{ site.baseurl }}/about.html" class="enabled" title="about" rel="about" accesskey="h"><span>A</span>bout</a></li>
             <li><a href="{{ site.baseurl }}/contents.html" class="enabled" title="Nodes by category" rel="contents" accesskey="c"><span>C</span>ontents</a></li>
-            <li><a href="{{ site.baseurl }}" class="enabled" title="Home" rel="home" accesskey="i"><span>I</span>ndex</a></li>
-            <li><a href="{{ site.baseurl }}/help.html" class="enabled" title="Help" rel="help" accesskey="h"><span>H</span>elp</a></li>
             <li><a href="{{ site.baseurl }}" id="retrace" class="disabled" title="Back" onclick="retrace()" accesskey="r"><span>R</span>etrace</a></li>
           {% if page.previous %}
             <li><a href="{{ site.baseurl}}{{ page.previous.url }}" class="enabled" title="Older: {{ page.previous.title }}" rel="prev" accesskey="p">Browse <span>&laquo;</span></a></li>
