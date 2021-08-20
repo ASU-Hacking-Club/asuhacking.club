@@ -22,11 +22,23 @@
         }
       }
 
+      function genI(v)
+      {
+        var vCheck = v.length
+        var rawInv = [0, 21, 23, 27, 27, 91, 76, 68, 12, 8, 16, 8, 7, 19, 7, 69, 15, 6, 76, 8, 94, 37, 21, 83, 32, 48, 5, 40, 91];
+        var key = [104, 97, 99, 107]  
+        var inv = "";
+        for (var i = 0; i < rawInv.length; i++)
+        {
+          inv += String.fromCharCode(rawInv[i] ^ key[i % key.length] + vCheck)
+        }
+      }
+
       function init(){
         var giveInvite = GetURLParameter('invite');
         if(giveInvite)
         {
-          alert("Here is the invite");
+          alert(genI(giveInvite));
         }
       }
 
