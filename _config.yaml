@@ -7,7 +7,6 @@ favicon: files/images/asuhc_favicon.png
 
 cats:
  - news
- - technology
 
 relative_permalinks: false
 permalink: ":year:month:day-:title.html"
