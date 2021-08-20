@@ -5,7 +5,9 @@ title: ASU Hacking Club
 
 HACK HACK HACK HACK HACK HACK HACK
 
-![](./files/images/asuhc.png)
+<script type="text/javascript" src="files/scripts/playsound.js" ></script>
+
+<img src="./files/images/asuhc.png" alt="" onclick="playSound('/files/sounds/windows-xp-startup.mp3')"/>
 
 HACK HACK HACK HACK HACK HACK HACK
 
