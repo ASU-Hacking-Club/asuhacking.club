@@ -5,6 +5,7 @@ title: Posts by category
 
       <main role="main">
         <article>
+          <p>Note: all posts have travelled 30 years into the past, so they can be on the right hacking timeline.</p>
 
         {% for cat in site.cats %}
 
@@ -14,7 +15,7 @@ title: Posts by category
               <li class="category-{{ post.category }}"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.excerpt | strip_html | strip_newlines | escape }}">
                 {{ post.title }}</a>
                 {{ post.date | date: "%d %b" }}
-                <abbr title="{{ post.date | date: "%d %b %Y" }}">{{ post.date | date: "%Y" | minus:20 }}</abbr>
+                <abbr title="{{ post.date | date: "%d %b %Y" }}">{{ post.date | date: "%Y" | minus:30 }}</abbr>
               </li>
             {% endfor %}
           </ul>
