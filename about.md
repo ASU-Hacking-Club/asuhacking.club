@@ -2,6 +2,8 @@
 layout: page
 title: About
 ---
+
+---
 ## Manifesto
 
 Hacking has evolved far past its intended end date. The ASU Hacking Club has, in response, decided to go back. Back to a time when hacking was simpler. We now dedicate our time to teaching other hackers about how to hack like it was the 90's and slowly progress towards the present. 
@@ -10,6 +12,7 @@ We believe that a good hacker comes through practice, dedication, and above all 
 
 Lastly, the goal of this club is to turn white belt hackers into black belts, with the help of leet members of Shellphish and through [pwn.college](https://pwn.college). 
 
+---
 ## Meetings
 ### Beginner Meetings
 We have a meeting every **Wednesday at 5:00 - 7:00pm AZ Time**, both online through our **Discord** and physically in **Brickyard Engineering**. The exact room is still being scheduled
@@ -20,6 +23,7 @@ Pro meetings are run by Shellphish members, which means they are closed to the g
 2. Be recommended by a Shellphish member (will overlap with ASU_HC)
 
 
+---
 ## Leadership
 ### Faculty Advisors
 
@@ -38,6 +42,13 @@ The leadership is also filled with some leet undergraduate and graduate students
 - _Vice-President_: **Justin Kereszturi**, Freshman UG ([@overwatch](https://github.com/Justin-Kereszturi))
 - _Treasurer_: **Ike Rolader**, Junior UG ([@trainboy](https://github.com/trainboy2019))
 
+### Contacting
+
+Should you be unable to get on our Discord (it may be non-trivial), you can email us at: `hackingclub@asu.edu`.
+
+![](files/images/at_symbol.gif)
+
+---
 ## History
 
 Originally, this club went by the name of [pwndevils](https://pwndevils.com), which was started in 2009 to play CTFs. The pwndevils competed in CTFs very actively between 2015 and 2020, culminating in its breif time as the 10th ranked hacking team in the world by [CTFTime](https://ctftime.org). After ranking top 10, the pwndevils merged with an already present [Shellphish](https://shellphish.net), the oldest hacking team in the United States. Since its late advisors were also from Shellphish, this was the start of the continuation of the Shellphish legacy. 
@@ -45,3 +56,5 @@ Originally, this club went by the name of [pwndevils](https://pwndevils.com), wh
 The pwndevils club continued to exist internally at ASU until its name/brand change in 2021, resulting in the now known ASU Hacking Club. The ASU Hacking Club was formed to fill the gap between playing CTFs competitively and recruiting Undergraduate students, which often look for a more beginner and social experience. For more info on the pwndevils history, see the pwndevils [history page](https://pwndevils.com/about#pwndevils-history). 
 
 Currently, the club strives towards getting competitive hackers that will join the Shellphish CTF team on its international conquest to be the best hacking team. 
+
+---
