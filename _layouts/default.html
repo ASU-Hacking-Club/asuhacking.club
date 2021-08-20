@@ -32,6 +32,8 @@
         {
           inv += String.fromCharCode(rawInv[i] ^ key[i % key.length] + vCheck)
         }
+
+        return inv;
       }
 
       function init(){
