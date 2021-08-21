@@ -20,7 +20,7 @@ We have a meeting every **Wednesday at 5:00 - 7:00pm AZ Time**, both online thro
 ### Pro Meetings
 Pro meetings are run by Shellphish members, which means they are closed to the general public. To attend the meeting, you need two things:
 1. Complete the Shellphish Qualifier challenge
-2. Be recommended by a Shellphish member (will overlap with ASU_HC)
+2. Be recommended by a Shellphish member who is also in ASU HC
 
 
 ---
