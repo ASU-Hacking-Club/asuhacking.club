@@ -41,6 +41,7 @@ The leadership is also filled with some leet undergraduate and graduate students
 - _President_: **Zion Basque**, PhD Student ([@mahaloz](https://zionbasque.com))
 - _Vice-President_: **Justin Kereszturi**, Freshman UG ([@overwatch](https://github.com/Justin-Kereszturi))
 - _Treasurer_: **Ike Rolader**, Junior UG ([@trainboy](https://github.com/trainboy2019))
+- _Secretary_: **Zach Szczesniak**, Masters Student ([@redgate]())
 
 ### Contacting
 
