@@ -43,6 +43,13 @@ The leadership is also filled with some leet undergraduate students:
 - _Treasurer_: **Ike Rolader**, Junior UG ([@trainboy](https://github.com/trainboy2019))
 - _Secretary_: **Thomas Spencer**, Senior UG ([@SirSquibbins](https://github.com/tmspe859/))
 
+### Shellphish Ambassadors
+
+Addionally, we also have two leet Shellphish ambassadors:
+
+- [@mahaloz](https://zionbasque.com)
+- [@redgate]()
+
 ### Contacting
 
 Should you be unable to get on our Discord (it may be non-trivial), you can email us at: `hackingclub@asu.edu`.
