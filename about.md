@@ -15,7 +15,7 @@ Lastly, the goal of this club is to turn white belt hackers into black belts, wi
 ---
 ## Meetings
 ### Beginner Meetings
-We have a meeting every **Wednesday at 5:00 - 7:00pm AZ Time**, both online through our **Discord** and physically in **Brickyard Engineering**. The exact room is still being scheduled
+We have a meeting every **TBD at TBD AZ Time**, both online through our **Discord** and physically in **Brickyard Engineering**. The exact room is still being scheduled
 
 ### Pro Meetings
 Pro meetings are run by Shellphish members, which means they are closed to the general public. To attend the meeting, you need two things:
@@ -36,12 +36,12 @@ The faculty leaders of the ASU Hacking Team are highly intertwined with the Shel
 Two of the three were previous [OOO](https://oooverflow.io/) organizers who ran what is known as the Hacker Olympics (DEF CON CTF Finals). One of the three is known as the best reverse engineer in Shellphish. Indeed, we could not have a more leet set of advisors.
 ### Student Officers
 
-The leadership is also filled with some leet undergraduate and graduate students:
+The leadership is also filled with some leet undergraduate students:
 
-- _President_: **Zion Basque**, PhD Student ([@mahaloz](https://zionbasque.com))
-- _Vice-President_: **Justin Kereszturi**, Freshman UG ([@overwatch](https://github.com/Justin-Kereszturi))
+- _President_: **Jude O'Kain**, Sophomore UG ([@F4_U57](https://f4-u57.github.io/))
+- _Vice-President_: **Justin Kereszturi**, Junior UG ([@overwatch](https://github.com/Justin-Kereszturi))
 - _Treasurer_: **Ike Rolader**, Junior UG ([@trainboy](https://github.com/trainboy2019))
-- _Secretary_: **Zach Szczesniak**, Masters Student ([@redgate]())
+- _Secretary_: **Thomas Spencer**, Senior UG ([@SirSquibbins](https://github.com/tmspe859/))
 
 ### Contacting
 
