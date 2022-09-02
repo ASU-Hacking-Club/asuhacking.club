@@ -15,7 +15,7 @@ Lastly, the goal of this club is to turn white belt hackers into black belts, wi
 ---
 ## Meetings
 ### Beginner Meetings
-We have a meeting every **TBD at TBD AZ Time**, both online through our **Discord** and physically in **Brickyard Engineering**. The exact room is still being scheduled
+For 2022 Fall Semester, we have a meeting every **Friday at 3pm-5pm AZ Time**, online through our **Discord**.
 
 ### Pro Meetings
 Pro meetings are run by Shellphish members, which means they are closed to the general public. To attend the meeting, you need two things:
@@ -40,7 +40,7 @@ The leadership is also filled with some leet undergraduate students:
 
 - _President_: **Jude O'Kain**, Sophomore UG ([@F4_U57](https://f4-u57.github.io/))
 - _Vice-President_: **Justin Kereszturi**, Junior UG ([@overwatch](https://github.com/Justin-Kereszturi))
-- _Treasurer_: **Ike Rolader**, Junior UG ([@trainboy](https://github.com/trainboy2019))
+- _Treasurer_: **Mitchell Zakocs**, Sophomore UG ([@mzakocs](https://www.mitchellzakocs.com/))
 - _Secretary_: **Thomas Spencer**, Senior UG ([@SirSquibbins](https://github.com/tmspe859/))
 
 ### Shellphish Ambassadors
