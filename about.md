@@ -17,7 +17,7 @@ Lastly, the goal of this club is to turn white belt hackers into black belts, wi
 ### Beginner Meetings
 For 2022 Fall Semester, we have a meeting every **Friday at 3pm-5pm AZ Time**, online through our **Discord**.
 
-### Pro Meetings
+### Pro Meetings (still in the works)
 Pro meetings are run by Shellphish members, which means they are closed to the general public. To attend the meeting, you need two things:
 1. Complete the Shellphish Qualifier challenge
 2. Be recommended by a Shellphish member who is also in ASU HC
