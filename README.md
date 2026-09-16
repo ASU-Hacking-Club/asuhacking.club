@@ -24,3 +24,4 @@
 3. Set the site baseurl. Usually the same as the url, but NO TRAILING SLASH.
 4. Maybe delete the two example posts and write your own.
 5. To use on GitHub, read the docs on using Jekyll with Github Pages: https://help.github.com/articles/using-jekyll-with-pages/
+
