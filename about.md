@@ -15,13 +15,7 @@ Lastly, the goal of this club is to turn white belt hackers into black belts, wi
 ---
 ## Meetings
 ### Beginner Meetings
-For 2022 Fall Semester, we have a meeting every **Friday at 3pm-5pm AZ Time**, online through our **Discord**.
-
-### Pro Meetings (still in the works)
-Pro meetings are run by Shellphish members, which means they are closed to the general public. To attend the meeting, you need two things:
-1. Complete the Shellphish Qualifier challenge
-2. Be recommended by a Shellphish member who is also in ASU HC
-
+For 2026 Fall Semester, we have a meeting every **Monday at 5pm-6pm AZ Time**, online through our **Discord**.
 
 ---
 ## Leadership
@@ -38,10 +32,9 @@ Two of the three were previous [OOO](https://oooverflow.io/) organizers who ran 
 
 The leadership is also filled with some leet undergraduate students:
 
-- _President_: **Jude O'Kain**, Sophomore UG ([@F4_U57](https://f4-u57.github.io/))
-- _Vice-President_: **Justin Kereszturi**, Junior UG ([@overwatch](https://github.com/Justin-Kereszturi))
-- _Treasurer_: **Mitchell Zakocs**, Sophomore UG ([@mzakocs](https://www.mitchellzakocs.com/))
-- _Secretary_: **Thomas Spencer**, Senior UG ([@SirSquibbins](https://github.com/tmspe859/))
+- _Co-President_: **Salem Abrams**, Sophomore UG (@clouddddddd_)
+- _Co-President_: **Juno Moss**, Junior UG (@jun00bug)
+- _Secretary_: **Astrid Sayyed**, Sophomore UG (@godlyavenger)
 
 ### Shellphish Ambassadors
 
